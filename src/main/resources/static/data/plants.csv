@@ -1,0 +1,188 @@
+id,Kategorie,Samen,Name,Preis,URL
+1,Blumen,true,Husarenknöpfchen,2.99,https://assets.dehner.de/new_product_list_normal/husarenknpfchen/8817587_PR_FS_001_SonnenvitaliaDehnerExpressHerzig.jpg
+2,Blumen,true,Portulakröschen,3.29,https://assets.dehner.de/new_product_list_normal/portulakrschen/8817199_WE_FS_001_PortulacaUmbraticolaT11.jpg
+3,Blumen,true,Stehende Geranie,3.29,https://assets.dehner.de/new_product_list_normal/stehende-geranie-smokey-eye/8815201_WE_FS_001_GeranieSmokeyEyeT12.jpg
+4,Blumen,true,Köcherblümchen,3.49,https://assets.dehner.de/new_product_list_normal/kcherblmchenduo/8811358_WE_FS_002_CupheaHyssopif_TwinT11.jpg
+5,Blumen,true,Hängebegonie,4.99,https://assets.dehner.de/new_product_list_normal/hngebegonie-champagner/8809709_PR_FS_001_HaengeknollenbegonieChampagnerBegoniaPendulaT13redDehnerExpressHerzig.jpg
+6,Blumen,true,Knollenbegonie,3.29,https://assets.dehner.de/new_product_list_normal/knollenbegonie-verschiedene-farben/8815110_WE_FS_001_KnollenbegonieBegoniaTuberhybridaT12OWDehnerExpressHerzig.jpg
+7,Blumen,true,Strohblume,5.49,https://assets.dehner.de/new_product_list_normal/strohblume-gelb/8819765_WE_FS_001_Strohblume.jpg
+8,Blumen,true,Sonnenblume,4.99,https://assets.dehner.de/new_product_list_normal/sonnenblume-sunbelievable/8823122_PR_FS_001_HelianthusSunbelievableSonnenblumeT14NeuheutDehnerExpressZS.jpg
+9,Blumen,true,Dahlie,5.99,https://assets.dehner.de/new_product_list_normal/dahlie-dahlegria-tricolore/8823239_WE_FS_001_DahlieDahlegriaTricolor.jpg
+10,Blumen,true,Goldmarie,3.29,https://assets.dehner.de/new_product_list_normal/goldmarie-golden-empire/8810038_WE_FS_001_GoldmarieBidensFerulifoliaGoldenEmpireT11_8821308T13Herzig.jpg
+11,Blumen,true,Federbusch,3.29,https://assets.dehner.de/new_product_list_normal/federbusch-venezuela/8810657_WE_FS_001_CelosiaArgenteaVenezuela.jpg
+12,Blumen,true,Goldtaler,3.49,https://assets.dehner.de/new_product_list_normal/goldtaler/8809394_BildFS_001_GoldtalerAsteriscusMarit.jpg
+13,Rosen,true,Edelrose,22.99,https://assets.dehner.de/new_product_list_normal/edelrose-marlene/7988207_WE_DE_001_EdelroseMarlene.jpg
+14,Rosen,true,Ramblerrose,22.99,https://assets.dehner.de/new_product_list_normal/ramblerrose-perennial-blue/7803307_WE_DE_002_RamblerrosePerennialBlueTantauLilaRosaViolettBlauret.jpg
+15,Rosen,true,Bodendeckerrose,7.99,https://assets.dehner.de/new_product_list_normal/bodendeckerrose-yellow-fairy/7844186_WE_FS_001_BodendeckerroseFairy.jpg
+16,Rosen,true,Beetrose,17.99,https://assets.dehner.de/new_product_list_normal/beetrose-bailando/7978406_WE_DE_001_BeetroseBailandoTantau.jpg
+17,Rosen,false,Nostalgie-Edelrose,22.99,https://assets.dehner.de/new_product_list_normal/nostalgieedelrose-capri/7978406_WE_DE_001_EdelroseCapri.jpg
+18,Rosen,false,Noblesse,17.99,https://assets.dehner.de/new_product_list_normal/noblesse-sprayrose-candy-rokoko/7988520_WE_DE_001_SprayroseCandyRokokoTantau.jpg
+19,Rosen,false,Kletterrose,22.99,https://assets.dehner.de/new_product_list_normal/kletterrose-uetersener-klosterrose/7803232_WE_DE_001_KletterroseUetersenerKlosterroseTantauWeissDehner.jpg
+20,Rosen,false,Strauchrose,22.99,https://assets.dehner.de/new_product_list_normal/strauchrose-sahara/7803273_WE_DE_002_StrauchroseSaharaTantauGoldgelbBronzerotRet.jpg
+21,Rosen,false,Nostalgie-Strauchrose,22.99,https://assets.dehner.de/new_product_list_normal/nostalgiestrauchrose-soul/8294951_WE_DE_003_StrauchroseSoul.jpg
+22,Rosen,false,Hunds-Rose,12.99,https://assets.dehner.de/new_product_list_normal/hundsrose/7921778_WE_DE_002_RosaCanina.jpg
+23,Rosen,false,Persische Rosen,22.99,https://assets.dehner.de/new_product_list_normal/persische-rosen-verschiedene-farben/7815392_WE_DE_001_RosaPersicaRosePersica4LAllgreenRet.jpg
+24,Kräuter,true,Kapizinerkresse,2.79,https://assets.dehner.de/new_product_list_normal/kapuzinerkresse-verschiedene-sorten/8000655_WE_FS_002_KapuzinerkresseMixT9.jpg
+25,Kräuter,true,Schnittknoblauch,2.79,https://assets.dehner.de/new_product_list_normal/schnittknoblauch/8001380_WE_FS_001_SchnittknoblauchT9.jpg
+26,Kräuter,true,Koriander,2.69,https://assets.dehner.de/new_product_list_normal/bioland-koriander/8001984_PR_FS_001_BioKorianderCoriandrumsativumDehnerExpressHerzig.jpg
+27,Kräuter,true,Dill,2.69,https://assets.dehner.de/new_product_list_normal/bioland-dill/8001919_PR_FS_001_BioDillAnethumGraveolensDehnerExpressHerzig.jpg
+28,Kräuter,true,Schnittlauch,2.59,https://assets.dehner.de/new_product_list_normal/schnittlauch/8001414_WE_FS_001_SchnittlauchT9.jpg
+29,Kräuter,true,Rosmarin,3.79,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-rosmarin/8610206_WE_FS_001_GourmetGartenRosmarinBusch.jpg
+30,Kräuter,true,Meerrettich,2.79,https://assets.dehner.de/new_product_list_normal/meerrettich/8001000_WE_FS_001_MeerrettichT9.jpg
+31,Kräuter,true,Kerbel,2.69,https://assets.dehner.de/new_product_list_normal/bioland-kerbel/8001950_PR_FS_001_BioKerbelAnthriscusCerefoliumDehnerExpressHerzig.jpg
+32,Kräuter,true,Salbei,2.79,https://assets.dehner.de/new_product_list_normal/honigmelonensalbei/8000689_WE_FS_001_HonigmelonensalbeiT9.jpg
+33,Kräuter,true,Thymian,2.69,https://assets.dehner.de/new_product_list_normal/bioland-thymian/8002289_PR_FS_001_BioThymianThymusvulgarisDehnerExpressHerzig.jpg
+34,Kräuter,true,Oregano,3.79,https://assets.dehner.de/new_product_list_normal/greenbar-oregano/8843104_WE_FS_001_GreenbarOreganoGS.jpg
+35,Kräuter,true,Pilzkraut,2.79,https://assets.dehner.de/new_product_list_normal/pilzkraut/8001190_WE_FS_001_PilzkrautT9.jpg
+36,Kräuter,true,Basilikum,3.79,https://assets.dehner.de/new_product_list_normal/greenbar-basilikum/8843088_WE_FS_002_GreenbarBasilikum.jpg
+37,Kräuter,true,Majoran,3.79,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-majoran-einjhrig/8609935_WE_FS_002_GourmetGartenEchterMajoranT14.jpg
+38,Gemüse,true,Aubergine,3.49,https://assets.dehner.de/new_product_list_normal/aubergine/8831380_WE_MO_001_Aubergine.jpg
+39,Gemüse,true,Zucchini,6.99,https://assets.dehner.de/new_product_list_normal/zucchini-grn/8831000_WE_MO_001_ZucchiniGruen.jpg
+40,Gemüse,true,Rhabarber,12.99,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-himbeerrhabarber/7736028_20220307_69985078_WE_MO_123rf_l_Rhabarber.jpg
+41,Gemüse,true,Zuckermais,2.29,https://assets.dehner.de/new_product_list_normal/zuckermais/8831455_WE_MO_001_ZuckermaisZuckermaisTopf.jpg
+42,Gemüse,true,Rote Beete,3.49,https://assets.dehner.de/new_product_list_normal/rote-bete-rote-rben-12er-schale/8835548_WE_MO_001_GefRoteRueben.jpg
+43,Gemüse,true,Edamame,2.79,https://assets.dehner.de/new_product_list_normal/edamame/6766885_WE_DE_001_EdamameSojaBohne.jpg
+44,Gemüse,true,Buschbohne,2.29,https://assets.dehner.de/new_product_list_normal/buschbohne/8831794_PR_DE_001_BohnePixabay.jpg
+45,Gemüse,true,Ingwer,4.49,https://assets.dehner.de/new_product_list_normal/thaiingwer/8001117_WE_DE_002_ThaiIngwer.jpg
+46,Gemüse,true,Süßkartoffel,4.49,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-skartoffel-verschiedene-sorten/6766877_WE_MO_001_GourmetGartenSuesskartoffelBesonderheit.jpg
+47,Gemüse,true,Radieschen,2.79,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-butterradieschen-20er-schale/8836579_WE_MO_001_Radiesschen.jpg
+48,Gemüse,true,Knollensellerie,3.29,https://assets.dehner.de/new_product_list_normal/knollensellerie-12er-schale/8835605_WE_MO_001_GefKnollensellerie.jpg
+49,Gemüse,true,Mangold,2.99,https://assets.dehner.de/new_product_list_normal/mangold-bunt-12er-schale/8835381_WE_FS_001_MANGOLD_BUNT.jpg
+50,Gemüse,true,Pastinake,3.49,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-pastinake/8837411_WE_MO_001_PastinakePalaceHartmann.jpg
+51,Gemüse,false,Speisekürbis,3.49,https://assets.dehner.de/new_product_list_normal/bio-speisekrbis-hokkaido/8837452_WE_MO_001_BiolandKuerbisHokkaido.jpg
+52,Gemüse,true,Petersilienwurzel,3.49,https://assets.dehner.de/new_product_list_normal/dehner-gourmet-garten-petersilienwurzel/8836900_WE_MO_001_Petersilienwurzel.jpg
+53,Gemüse,false,Blattspinat,2.00,https://assets.dehner.de/new_product_list_normal/blattspinat-rot-geadert-12er-schale/8836611_WE_MO_001_Spinatrotgeadert.jpg
+54,Gemüse,false,Knoblauch,3.79,https://assets.dehner.de/new_product_list_normal/knoblauch-6er-schale/8835712_WE_MO_003_GefKnoblauch.jpg
+55,Gemüse,false,Knollenfenchel,2.59,https://assets.dehner.de/new_product_list_normal/bio-knollenfenchel-6er-schale/8835936_BildFS_001_BioKnollenfenchelVonBiolandBioGefKnollenfenchel.jpg
+56,Zimmerpflanzen,true,Fliederaralie,19.99,https://assets.dehner.de/new_product_list_normal/glnzende-fiederaralie--polyscias-scutellaria-fabian/8203317_PR_FS_001_PolysciasFabianT19DehnerExpressHerzig.jpg
+57,Zimmerpflanzen,true,Efeutute,3.49,https://assets.dehner.de/new_product_list_normal/efeutute--epipremnum-aureum/8271926_WE_FS_001_EfeututeEpipremnumAureumT11DehnerExpressHerzig.jpg
+58,Zimmerpflanzen,true,Herzblattblume,69.99,https://assets.dehner.de/new_product_list_normal/herzblattblume--anthurium-warocqueanum/8417891_WE_FS_001_AnthuriumWarocqueanumT12.jpg
+59,Zimmerpflanzen,true,Bogenhanf,12.99,https://assets.dehner.de/new_product_list_normal/bogenhanf--sansevieria-zeylanica/8670523_PR_FS_001_SansevierieSansevieriaZylanicaT12DehnerExpressHerzig.jpg
+60,Zimmerpflanzen,false,Fensterblatt,79.99,https://assets.dehner.de/new_product_list_normal/fensterblatt--monstera-deliciosa-thai-constellation-panaschiert/8405276_WE_FS_001_MosteraThaiCostellationT15.jpg
+61,Zimmerpflanzen,false,Grünlilie,4.99,https://assets.dehner.de/new_product_list_normal/grnlilie--chlorophytum-comosum-bonnie/8215303_PR_FS_001_GruenlilieChlorophytumBonnieT10DehnerExpressHerzig.jpg
+62,Zimmerpflanzen,false,Pfeilblatt,21.99,https://assets.dehner.de/new_ads_main/pfeilblatt--alocasia-zebrina/8223521_PR_FS_001_AlocasiaZebrinaT15DehnerExpressHerzig.jpg
+63,Zimmerpflanzen,false,Glanzkölbchen,9.99,https://assets.dehner.de/new_product_list_normal/glanzklbchen--aphelandra-squarrosa/8202947_PR_FS_001_AphelandraSquarosaGruenT13DehnerExpressHerzig.jpg
+64,Zimmerpflanzen,false,Guzmanie,21.59,https://assets.dehner.de/new_product_list_normal/guzmanie--guzmania-calypso-in-keramik/8628018_WE_FS_001_GuzmaniaCalypsoInKeramikT13.jpg
+65,Zimmerpflanzen,false,Lanzenrosette,9.99,https://assets.dehner.de/new_product_list_normal/lanzenrosette--aechmea-fasciata/8500514_PR_FS_001_LanzenrosetteAechmeaPrimeraT12DehnerExpressZS.jpg
+66,Zimmerpflanzen,false,Kalanchoe,19.99,https://assets.dehner.de/new_product_list_normal/freilandkalanchoe-verschiedene-farben/8238842_WE_FS_002_FlammendesKaetchenKalanchoeGartenbagsDehnerExpressHerzig.jpg
+67,Zimmerpflanzen,false,Zimmerazalee,5.99,https://assets.dehner.de/new_product_list_normal/zimmerazalee--rhododendron-simsii/8205163_we_FS_001_AzaleeAzaleaRosaT12DehnerExpressHerzig.jpg
+68,Zimmerpflanzen,false,Korbmarante,9.99,https://assets.dehner.de/new_product_list_normal/korbmarante--calathea-lancifolia/8627721_WE_FS_001_CalatheaInsignisT12.jpg
+69,Zimmerpflanzen,false,Philodendron,7.99,https://assets.dehner.de/new_product_list_normal/baumfreund--philodendron-scandens-micans/87445596_PR_FS_001_PhilodendronScandensMicansDehnerExpressHerzig.jpg
+70,Zimmerpflanzen,false,Dreimasterblume,9.99,https://assets.dehner.de/new_product_list_normal/dreimasterblume--tradescantia-zebrina-nanouk/8279150_WE_FS_001_TradescantiaNanoukT12.jpg
+71,Zimmerpflanzen,false,Wachsblume,17.99,https://assets.dehner.de/new_product_list_normal/wachsblume--hoya-linearis-ampel/7988330_PR_FS_001_HoyalinearisT17DehnerExpressHerzig.jpg
+72,Zimmerpflanzen,false,Zimmerrebe,24.99,https://assets.dehner.de/new_product_list_normal/zimmerrebe--cissus-rhombifolia-ellen-danica/8214801_WE_FS_001_ZimmerrebeCissusEllenDT18AmpelDehnerExpressHerzig.jpg
+73,Zimmerpflanzen,false,Schamblume,19.99,https://assets.dehner.de/new_product_list_normal/schamblume--aeschynanthus-cultivars-twister-ampel/8650293_WE_FS_001_SinnblumeAeschynanthusTwisterDehnerExpressHerzig.jpg
+74,Zimmerpflanzen,false,Peperomie,9.99,https://assets.dehner.de/new_product_list_normal/peperomie--peperomia-rotundifolia-ampel/8654774_PR_FS_001_ZwergpfefferPeperomiaRotundifoliaAmpelT15DehnerExpressHerzig.jpg
+75,Zimmerpflanzen,false,Efeu,9.99,https://assets.dehner.de/new_product_list_normal/efeu--hedera-helix-ampel/8224263_PR_FS_001_HederaHelixEfeuGruenAmpelT15DehnerExpressHerzig.jpg
+76,Zimmerpflanzen,false,Zierspargel,7.99,https://assets.dehner.de/new_product_list_normal/zierspargel--asparagus-densiflorus-sprengeri/8650715_PR_FS_AsparagusSrengeriiT14DehnerExpressHerzig.jpg
+77,Zimmerpflanzen,false,Felsendickblatt,14.99,https://assets.dehner.de/new_product_list_normal/felsendickblatt--crassula-rupestris-subsp-marnieriana-hottentot-ampel/8652596_PR_FS_001_CrassulaHottentotFelsenDickblattAmpelT14DehnerExpressHerzig.jpg
+78,Palmen,false,Kentia-Palme,64.99,https://assets.dehner.de/new_product_list_normal/kentiapalme-howea-forsteriana-hydrokultur/8425399_WE_FS_001_KentiaForsteriana15_19H60_70_.jpg
+79,Palmen,false,Yucca-Palme,6.99,https://assets.dehner.de/new_product_list_normal/yuccapalme--yucca-elephantipes/8286429_WE_FS_001_YuccaElephantipesT13DehnerExpressHerzig.jpg
+80,Palmen,false,Drachenbaum,21.99,https://assets.dehner.de/new_product_list_normal/drachenbaum--dracaena-fragrans-hawaiian-sunshine/8511545_WE_FS_001_DrachenbaumDracaenaMassangianaHawaiinSunshineT19DehnerExpressHerzig.jpg
+81,Palmen,false,Schirmpalme,14.99,https://assets.dehner.de/new_product_list_normal/rundblttrige-schirmpalme--livistona-rotundifolia/8255853_WE_FS_001_LivistonaRotunddifoliaT12DehnerExpressHerzig.jpg
+82,Palmen,false,Kokospalme,17.99,https://assets.dehner.de/new_product_list_normal/kokospalme--cocos-nucifera/8215436_WE_FS_001_CocosPalmeDehnerExpressHerzig.jpg
+83,Palmen,false,Schusterpalme,24.99,https://assets.dehner.de/new_product_list_normal/schusterpalme--aspidistra-elatior/8504326_PR_FS_001_SchusterpalmeAspidistraElatiorT17DehnerExpressHerzig.jpg
+84,Palmen,false,Strelitzie,29.99,https://assets.dehner.de/new_product_list_normal/weie-strelitzie--strelitzia-alba/8276503_PR_FS_001_StrelitziaAugustaT20DehnerExpressHerzig.jpg
+85,Palmen,false,Goldfruchtpalme,199.99,https://assets.dehner.de/new_product_list_normal/goldfruchtpalme--dypsis-lutescens-hydrokultur/8416513_WE_FS_001_ArecaLutescensGoldfruchtpalmeHydroT22_DehnerExpressHerzig.jpg
+86,Palmen,false,Südseepalme,17.99,https://assets.dehner.de/new_product_list_normal/sdseepalme--biophytum-sensitivum-2erset/7977762_WE_FS_001_BiophytumSensitivumSuedseepalme2erSetT9StreckeDehnerExpressHerzig.jpg
+87,Palmen,false,Sagopalmfarn,21.99,https://assets.dehner.de/new_product_list_normal/sagopalmfarn--cycas-revoluta/8509291_PR_FS_001_PalmfarnCycasRevolutaT29DehnerExpressHerzig.jpg
+88,Palmen,false,Steckenpalme,44.99,https://assets.dehner.de/new_product_list_normal/steckenpalme--rhapis-excelsa/8261232_PR_FS_001_RhapisExcelsaT21DehnerExpressHerzig.jpg
+89,Palmen,false,Fischschwanzpalme,39.99,https://assets.dehner.de/new_product_list_normal/fischschwanzpalme--caryota-mitis/8738189_PR_FS_001_FischschwanzpalmeCaryotaMitisT21DehnerExpressHerzig.jpg
+90,Kakteen,true,Feigenkaktus,5.99,https://assets.dehner.de/new_product_list_normal/feigenkaktus--opuntia-indica-verschiedene-sorten/8611469_PR_FS_003_OpuntiaMixT11DehnerExpressHerzig.jpg
+91,Kakteen,true,Hasenohrkaktus,4.99,https://assets.dehner.de/new_product_list_normal/hasenohrkaktus--opuntia-microdasys-verschiedene-sorten/8678302_PR_FS_001_OpuntiaMicrodasysAlbispDehnerExpressHerzig.jpg
+92,Kakteen,true,Korallenkaktus,5.99,https://assets.dehner.de/new_product_list_normal/korallenkaktus--rhipsalis-cassutha-verschiedene-sorten/8611477_PR_FS_001_RhipsalisMixT10_5DehnerExpressZS.jpg
+93,Kakteen,true,Haarsäulenkaktus,3.99,https://assets.dehner.de/new_product_list_normal/blauer-haarsulenkaktus--pilosocereus-azureus/8280091_PR_FS_001_PolisocereusAzureusT9PlatzhalterDehnerExpressHerzig.jpg
+94,Kakteen,true,Silberkerzenkaktus,3.99,https://assets.dehner.de/new_product_list_normal/silberkerzenkaktus--cleistocactus-strausii/8776759_PR_FS_001_KaktusStrausiiT8K5DehnerExpressHerzig.jpg
+95,Kakteen,true,Seeigelkaktus,3.99,https://assets.dehner.de/new_product_list_normal/seeigelkaktus--echinopsis-multiplex/8294530_PR_FS_001_EchinopsisMultiplexDehnerExpressHerzig.jpg
+96,Kakteen,true,Weihnachtskaktus,3.99,https://assets.dehner.de/new_product_list_normal/weihnachtskaktus--schlumbergera-x-buckleyi-verschiedene-farben/8225054_PR_FS_001_WeihnachtskaktusSchlumbergeraT9DehnerHerzig.jpg
+97,Kakteen,true,Felsenkaktus,4.99,https://assets.dehner.de/new_product_list_normal/felsenkaktus--cereus-repanduscereus-peruvianus/8274672_PR_FS_001_CereusPeruianusFloridakaktusT9OWDehnerExpressHerzig.jpg
+98,Kakteen,true,Warzenkaktus,4.99,https://assets.dehner.de/new_product_list_normal/warzenkaktus--mammillaria-hahniana/8682403_8296246_PR_FS_001_MammillariaHahnianaTT105DehnerExpressZS.jpg
+99,Kakteen,true,Frühlingskaktus,6.99,https://assets.dehner.de/new_product_list_normal/frhlingskaktusduo--hatiora-x-graeseri/8263790_PR_FS_001_FruehlingskaktusRhipsalisTwinT12DehnerExpressHerzig.jpg
+100,Kakteen,true,Binsenkaktus,6.99,https://assets.dehner.de/new_product_list_normal/binsenkaktus--rhipsalis-cultivars-verschiedene-sorten/8297434_PR_FS_002_RhipsalisTeresMixBinsenkaktusT12DehnerExpressZS.jpg
+101,Kakteen,true,Königin der Nacht,7.99,https://assets.dehner.de/new_product_list_normal/knigin-der-nacht--selenicereus-grandiflorus/8679029_PR_FS_001_KoeniginDerNachtSelenicereusGrandiflorusT9DehnerHerzig.jpg
+102,Kakteen,true,Graptopetalum,6.99,https://assets.dehner.de/new_product_list_normal/graptopetalum--graptopetalum-tacitus/8707861_WE_FS_001_GraptopetalumTacitusT11DehnerExpressHerzig.jpg
+103,Kakteen,true,Sägeblattkaktus,8.99,https://assets.dehner.de/new_product_list_normal/sgeblattkaktus--epiphyllum-anguliger/8681033_PR_FS_002_EpiphyllumAnguligerT10_5DehnerExpressHerzig.jpg
+104,Kakteen,true,Schwiegermuttersitz,11.99,https://assets.dehner.de/new_product_list_normal/schwiegermuttersitz--echinocactus-grusonii/7976459_WE_FS_001_SchwiegermutterstuhlEchinocactusGrusoniiSolitaerT16SchaleDehnerExpressHerzig.jpg
+105,Kakteen,true,Perlbandkaktus,12.99,https://assets.dehner.de/new_product_list_normal/perlbandkaktus--marginatocereus-marginatus/8686362_PR_FS_001_MarginatocereusT12DehnerExpressZS.jpg
+106,Kakteen,true,Peitschenkaktus,15.99,https://assets.dehner.de/new_product_list_normal/peitschenkaktus--rhipsalis-heteroclada-ampel/8263998_PR_FS_001_RhipsalisHeterocladaKorallenkaktusAmpelT17DehnerExpressHerzig.jpg
+107,Kakteen,false,Heidelbeerkaktus,24.99,https://assets.dehner.de/new_product_list_normal/heidelbeerkaktus--myrtillocactus-geometrizans/8711228_WE_FS_001_Heidelbeerkaktus.jpg
+108,Kakteen,false,Mexikanischer Kandelaberkaktus,24.99,https://assets.dehner.de/new_product_list_normal/mexikanischer-kandelaberkaktus--pachycereus-pringlei/8760910_WE_FS_001_PachycereusPringleiT17.jpg
+109,Kakteen,false,Ferokaktus,24.99,https://assets.dehner.de/new_product_list_normal/ferokaktus--ferocactus-stainesii/8403966_PR_FS_001_FerocactusStainesiiT19DehnerExpressZS.jpg
+110,Bonsai,true,Szechuan-Pfeffer,69.99,https://assets.dehner.de/new_product_list_normal/bonsai-szechuanpfeffer--zanthoxylum-piperitum-10-jahre/7977044_WE_FS_001_BonsaiSzechuanPfefferZanthoxylumPiperitum10JahreDehnerExpressHerzig.jpg
+111,Bonsai,true,Fukientee,56.99,https://assets.dehner.de/new_product_list_normal/bonsai-fukientee--carmona-microphylla-10-jahre/7977002_WE_FS_001_BonsaiFukienteeCarmonaMicrophylla10JahreDehnerExpressHerzig2.jpg
+112,Bonsai,true,Feigenbaum,24.99,https://assets.dehner.de/new_product_list_normal/bonsai-chinesischer-feigenbaum--ficus-retusa-6-jahre/7976939_WE_FS_001_BonsaiChinesischerFeigenbaumFicusRetusa6JahreDehnerExpressHerzig2.jpg
+113,Bonsai,true,Chinesischer Liguster,24.99,https://assets.dehner.de/new_product_list_normal/bonsai-chinesischer-liguster--ligustrum-sinensis-6-jahre/7976962_WE_FS_TestBonsaiQuer.jpg
+114,Bonsai,true,Chinesische Feige,15.99,https://assets.dehner.de/new_product_list_normal/chinesische-feige--ficus-microcarpa-ginseng/8757445_PR_FS_001_FicusGinsengT12DehnerExpressHerzig.jpg
+115,Bonsai,true,Chinesische Ulme,44.99,https://assets.dehner.de/new_product_list_normal/bonsai-chinesische-ulme--ulmus-parviflora-8-jahre/7976988_WE_FS_001_BonsaiChinesischeUlmeUlmusParviflora8JahreDehnerExpressHerzig2.jpg
+116,Bonsai,true,Japanische Zelkove,39.99,https://assets.dehner.de/new_product_list_normal/bonsai-japanische-zelkove--zelkova-serrata/8288789_WE_FS_001_BonsaiZelkovaMitUnterschaleSFormT20DehnerExpressHerzig.jpg
+117,Bonsai,true,Ginkgobaum,39.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-ginkgobaum--ginkgo-biloba/8286254_PR_FS_001_GinkoBilobaT20DehnerExpressHerzig.jpg
+118,Bonsai,false,Ahorn,39.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-ahorn--acer-palmatum/8286288_PR_FS_001_AhornAcerPalmatumAtropurpureumOhneUnterschaleT15DehnerExpressHerzig.jpg
+119,Bonsai,false,Roter Fächerahorn,27.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-roter-fcherahorn--acer-palmatum-atropurpureum/8286296_PR_FS_001_AhornAcerOhneUnterschaleT20DehnerExpressHerzig.jpg
+120,Bonsai,false,Urweltmammutbaum,29.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-urweltmammutbaum--metasequoia-glyptostroboides/8286205_PR_FS_001_UrweltmammutbaumMetasequoiaT20DehnerExpressHerzig.jpg
+121,Bonsai,false,Japanische Azalee,29.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-japanische-azalee--azalee-japonica/8286106_PR_FS_001_AzaleeAzaleaJaponicaOhneSchaleT15DehnerExpressHerzig.jpg
+122,Bonsai,false,Goldlärche,29.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-goldlrche--pseudolarix-amabilis/8286221_PR_FS_001_LaercheLarixSFormOhneSchaleT15DehnerExpressHerzig.jpg
+123,Bonsai,false,Japanische Stechpalme,29.99,https://assets.dehner.de/new_product_list_normal/outdoorbonsai-japanische-stechpalme--ilex-crenata/8286056_PR_FS_001_StechpalmeIlexCrenataOhneSchaleT15DehnerExpressHerzig.jpg
+124,Obstbäume,true,Zwergbirne,34.99,https://assets.dehner.de/new_product_list_normal/zwergbirne-luisa/7611999_WE_FS_002_ZwergbirneLuisa.jpg
+125,Obstbäume,true,Zwergapfel,34.99,https://assets.dehner.de/new_product_list_normal/zwergapfel-galina/7604697_WE_FS_002_ZwergapfelGalina.jpg
+126,Obstbäume,true,Säulenapfel,44.99,https://assets.dehner.de/new_product_list_normal/sulenapfel-rhapsodie/7739626_WE_FS_001_SaeulenapfelRhapsodie.jpg
+127,Obstbäume,true,Zwergsauerkirsche,34.99,https://assets.dehner.de/new_ads_main/zwergsauerkirsche-griotella/7697212_WE_FS_001_ZwergsauerkirscheGriotella.jpg
+128,Obstbäume,true,Zwergaprikose,29.99,https://assets.dehner.de/new_product_list_normal/zwergaprikose/7728710_WE_FS_001_ZwergaprikoseOrangeBeauty.jpg
+129,Obstbäume,false,Zwergpfirsich,39.99,https://assets.dehner.de/new_product_list_normal/zwergpfirsich-rotlaubig/7791601_WE_FS_002_Zwergpfirsichrotlaubig.jpg
+130,Obstbäume,false,Säulenpflaume,39.99,https://assets.dehner.de/new_product_list_normal/sulenpflaume-marika/7709488_PR_DE_001_PrunusSaeulenpflaumeMarikaPixabay.jpg
+131,Obstbäume,false,Säulenapfel,39.99,https://assets.dehner.de/new_product_list_normal/sulenapfel-starcats/7759111_WE_FS_001_SaeulenapfelStarcats.jpg
+132,Obstbäume,false,Blutnektarine,29.99,https://assets.dehner.de/new_product_list_normal/blutnektarine/7744949_WE_FS_001_Blutnektarine.jpg
+133,Obstbäume,false,Säulenbirne,39.99,https://assets.dehner.de/new_product_list_normal/sulenbirne-jeanne-darc/7754989_WE_FS_001_SaeulenbirneObelisk.jpg
+134,Obstbäume,false,Schwarze Säulenjohannisbeere,24.99,https://assets.dehner.de/new_product_list_normal/schwarze-sulenjohannisbeere/7752785_WE_FS_001_SaeulenjohannisbeereSchwarz.jpg
+135,Obstbäume,false,Sommerblutbirne,29.99,https://assets.dehner.de/new_product_list_normal/sommerblutbirne/7757388_WE_FS_001_SommerblubirneRotfleischig.jpg
+136,Obstbäume,false,Echte Zitrone,29.99,https://assets.dehner.de/new_product_list_normal/echte-zitrone/7118326_WE_FS_001_Zitrone.jpg
+137,Obstbäume,false,Kaffir-Limette,11.99,https://assets.dehner.de/new_product_list_normal/kaffirlimette/7977820_PR_FS_001_CitrusHystrixKaffirLimetteT12StreckeDehnerExpressHerzig.jpg
+138,Obstbäume,false,Gelbe Grapefruit,44.99,https://assets.dehner.de/new_product_list_normal/gelbe-grapefruit/7622624_WE_FS_001_CitrusParadisiiT20DehnerExpressHerzig.jpg
+139,Obstbäume,false,Orange,44.99,https://assets.dehner.de/new_product_list_normal/orange/7120538_WE_FS_001_CitrusSinensisT24DehnerExpressHerzig.jpg
+140,Obstbäume,false,Zitronat-Zitrone Buddhas Hand,44.99,https://assets.dehner.de/new_product_list_normal/zitronatzitrone-buddhas-hand/7118763_WE_FS_001_CitrusBuddhasHandT20DehnerExpressHerzig.jpg
+141,Obststräucher,true,Holunder,19.99,https://assets.dehner.de/new_product_list_normal/grofruchtiger-holunder-haschberg/7662760_WE_DE_004_SambucusHolunderHaschberg.jpg
+142,Obststräucher,true,Heilderbeer-Drilling,22.99,https://assets.dehner.de/new_product_list_normal/heidelbeerdrilling/7665631_PR_DE_001_HeidelbeereDrillingDehner.jpg
+143,Obststräucher,true,Maibeere,14.99,https://assets.dehner.de/new_product_list_normal/maibeere/7708399_7756448_WE_DE_001_LoniceraBlaubeereMaibeere.jpg
+144,Obststräucher,true,Rote Säulenjohannisbeere,24.99,https://assets.dehner.de/new_product_list_normal/rote-sulenjohannisbeere/7752777_WE_FS_001_SaeulenjohannisbeereRot.jpg
+145,Obststräucher,true,Goji-Beere,9.99,https://assets.dehner.de/new_product_list_normal/dehner-gojibeere/7654700_GojiBeere_Zehelein-Schemm_122017.jpg
+146,Obststräucher,true,Stachelbeere,17.99,https://assets.dehner.de/new_product_list_normal/stachelbeere-invicta-stmmchen/7688708_WE_DE_001_StachelbeereInvicta.jpg
+147,Obststräucher,true,Sibirische Blaubeere,14.99,https://assets.dehner.de/new_product_list_normal/sibirische-blaubeere-russlana/7708399_PR_FS_003_BlaubeereSibirischRusslana3LiterDehnerExpressHerzig.jpg
+148,Obststräucher,true,Jostabeere,12.99,https://assets.dehner.de/new_product_list_normal/jostabeere/7691181_PR_FS_001_JochelbeereBusch3LDehnerPixabay.jpg
+149,Obststräucher,true,Himbeer-Brombeer-Set,24.99,https://assets.dehner.de/new_product_list_normal/himbeerbrombeerset-gesund--lecker-3teilig/7733934_PR_DE_001_RubusBrombeerHimbeerenPflanzenpaketPixabay.jpg
+150,Obststräucher,true,Apfelbeere Aronia,14.99,https://assets.dehner.de/new_product_list_normal/apfelbeere-aronia-aron/7045479_PR_MO_001_AroniaMelanocarpaAron3LPixabay.jpg
+151,Obststräucher,true,Cranberry,6.99,https://assets.dehner.de/new_product_list_normal/cranberry-cranny/7771751_PR_FS_001_CranberryCrannyVacciniumPixabay.jpg
+152,Obststräucher,true,Weiße Johannisbeere,11.99,https://assets.dehner.de/new_product_list_normal/johannisbeere-weie-versailler/7779374_BildFS_001_JohannisbeereWeisseVersaillerWeisseVersaillerFu.jpg
+153,Sukkulenten,true,Pilea,6.99,https://assets.dehner.de/new_product_list_normal/glckstaler--pilea-peperomioides/8255051_PR_FS_001_PileaPeperomioidesT12DehnerExpressHerzig.jpg
+154,Sukkulenten,true,Senecio,9.99,https://assets.dehner.de/new_product_list_normal/erbsenpflanze--senecio-rowleyanus/8759342_PR_FS_001_ErbsenpflanzeSenecioHerreanusT9DehnerExpressZS.jpg
+155,Sukkulenten,true,Aloe Vera,7.99,https://assets.dehner.de/new_product_list_normal/echte-aloe--aloe-vera/8670853_PR_FS_001_AloeVeraT12DehnerExpressHerzig.jpg
+156,Sukkulenten,true,Zamioculcas,6.99,https://assets.dehner.de/new_product_list_normal/glcksfeder--zamioculcas-zamiifolia/8287716_PR_FS_001_GluecksfederZamioculcasZamiifoliaT11DehnerExpressZS.jpg
+157,Sukkulenten,true,Peperomie,7.99,https://assets.dehner.de/new_product_list_normal/peperomie--peperomia-polybotrya-raindrop/8294167_PR_FS_001_PeperomiaRaindropT12DehnerExpressHerzig.jpg
+158,Sukkulenten,false,Tintenfisch-Aloe,7.99,https://assets.dehner.de/new_product_list_normal/tintenfischaloe--aloe-arborescens/8670614_WE_FS_001_TintenfischAloeArobrescensT12DehnerExpressHerzig.jpg
+159,Sukkulenten,false,Gurkenpflanze,9.99,https://assets.dehner.de/new_product_list_normal/gurkenpflanze--delosperma-echinatum/8220089_WE_FS_001_DelospermaEchinatumT12.jpg
+160,Sukkulenten,false,Echeverie,14.99,https://assets.dehner.de/new_product_list_normal/echeverie--echeveriahybride-mexican-giant/8684060_PR_FS_001_EcheveriaMexicanaGiantT17DehnerExpressHerzig.jpg
+161,Sukkulenten,false,Haworthie,3.99,https://assets.dehner.de/new_product_list_normal/haworthie--haworthia-concolor/8680829_PR_FS_001_HaworthiaConcolorT8_5DehnerExpressHerzig.jpg
+162,Sukkulenten,false,Gasterie,4.99,https://assets.dehner.de/new_product_list_normal/gasterie--gasteria-verrucosa/8247041_PR_FS_001_GasteriaVerruscosaT10_5DehnerExpressHerzig.jpg
+163,Teichpflanzen,true,Schilfrohr,3.99,https://assets.dehner.de/new_product_list_normal/schilfrohr/8313884_BildFS_001_SchilfrohrPhragmitesAustralis.jpg
+164,Teichpflanzen,true,Seerose,15.99,https://assets.dehner.de/new_product_list_normal/dehner-aqua-seerose/8313603_BildFS_001_SeeroseSeeroseTrockenGelb.jpg
+165,Teichpflanzen,true,Rohrkolben,3.99,https://assets.dehner.de/new_product_list_normal/breitblttriger-rohrkolben/8315087_PR_DE_001_TyphaLatifoliaPixabay.jpg
+166,Teichpflanzen,true,Sumpf-Vergissmeinnicht,3.99,https://assets.dehner.de/new_product_list_normal/sumpfvergissmeinnicht/8313389_WE_MO_002_MyosotisPalustrisSumpfVergissMeinNichtPixabay.jpg
+167,Teichpflanzen,true,Japanischer Schachtelhalm,4.49,https://assets.dehner.de/new_product_list_normal/japanischer-schachtelhalm/8311326_WE_DE_001_SchachtelhalmEquisetumJaponicumT9.jpg
+168,Teichpflanzen,false,Gemeiner Froschlöffel,4.99,https://assets.dehner.de/new_product_list_normal/gemeiner-froschlffel/8310245_WE_MO_001_GemeinerFroschloeffelAlisma.jpg
+169,Teichpflanzen,false,Frauenhaargras,5.99,https://assets.dehner.de/new_product_list_normal/frauenhaargras--moorbinse--simse/8314585_WE_DE_001_FrauenhaargrasScirpusCernuusT18DehnerExpressHerzig.jpg
+170,Teichpflanzen,false,Äthiopische Calla,5.99,https://assets.dehner.de/new_product_list_normal/thiopische-calla--zantedeschia-aethiopica/8319410_WE_MO_001_ZantedeschiaAethiopicaCallaPixabay.jpg
+171,Teichpflanzen,false,Spaltgriffel,3.99,https://assets.dehner.de/new_product_list_normal/spaltgriffel--sumpfgladiole/8314460_BildFS_001_SpaltgriffelSumpfgladioleSchizostylisCoccineaRed.jpg
+172,Teichpflanzen,false,Fieberklee,3.99,https://assets.dehner.de/new_product_list_normal/fieberklee--bitterklee/8313140_WE_DE_002_MenyanthesFieberkleeLucknerMai2015.jpg
+173,Balkonpflanzen,true,Dipladenie,19.99,https://assets.dehner.de/new_product_list_normal/dipladenie-pyramide/8775447_WE_FS_001_DipladenieDipladeniaSundavillePyramdieRotT17.jpg
+174,Balkonpflanzen,true,Banane,6.99,https://assets.dehner.de/new_product_list_normal/banane/8422057_PR_FS_001_MusaTropicanaT12DehnerExpressHerzig.jpg
+175,Balkonpflanzen,true,Oleander,12.99,https://assets.dehner.de/new_product_list_normal/oleander-busch/8249302_WE_FS_001_OleanderBuschT17RotDehnerExpressHerzig.jpg
+176,Balkonpflanzen,true,Dahlie,5.99,https://assets.dehner.de/new_product_list_normal/dahlie-dahlegria-tricolore/8823239_WE_FS_001_DahlieDahlegriaTricolor.jpg
+177,Balkonpflanzen,true,Gewürzrinde,14.99,https://assets.dehner.de/new_product_list_normal/gewrzrinde-busch/8584153_BildFS_001_GewuerzrindeSennaCorymbosaBuschT17.jpg
+178,Balkonpflanzen,true,Chrysantheme,1.99,https://assets.dehner.de/new_product_list_normal/chrysantheme-swifty-verschiedene-farben/8213514_PR_FS_001_ChrysanthemeSwifty9cmDehnerExpressHerzig.jpg
+179,Balkonpflanzen,true,Hortensie,17.99,https://assets.dehner.de/new_product_list_normal/hortensie--hydrangea-macrophylla/8233777_PR_FS_001_HortensieHydrangeaWeissT13DehnerExpressHerzig.jpg
+180,Balkonpflanzen,true,Olive,69.99,https://assets.dehner.de/new_product_list_normal/olive-ministamm/7297609_WE_FS_001_OleaEuropaStammT30DehnerExpressHerzig.jpg
+181,Balkonpflanzen,true,Eukalyptus,9.99,https://assets.dehner.de/new_product_list_normal/eukalyptus-busch/8594509_PR_FS_001_EucalyptusGunniBuschT17DehnerExpressZS.jpg
+182,Balkonpflanzen,true,Hibiskus,15.99,https://assets.dehner.de/new_product_list_normal/hibiskus-blue-chiffon--garteneibisch/7213606_WE_DE_001_HibiscusSyriacusBlueChiffonRoseneibischHibiskus3LDehnerExpressHerzig.jpg
+183,Balkonpflanzen,false,Spinnenpflanze,12.99,https://assets.dehner.de/new_product_list_normal/spinnenpflanze/8529133_WE_FS_001_CleomeSpinosaSpinnenblumeT23DehnerExpressHerzig.jpg
+184,Balkonpflanzen,false,Fruchtfeige,32.99,https://assets.dehner.de/new_product_list_normal/feige-pflzer-fruchtfeige/7186448_WE_DE_002_PfaelzerFruchtfeige.jpg
+185,Balkonpflanzen,false,Margerite,9.99,https://assets.dehner.de/new_product_list_normal/margerite-bofinger-busch/8596553_PR_FS_001_MargeritenBofingerBu25DehnerExpressHerzig.jpg
+186,Balkonpflanzen,false,Fuchsie,19.99,https://assets.dehner.de/new_product_list_normal/fuchsie-stmmchen-verschiedene-sorten/88586042_PR_FS_001_FuchisenStammMixT2024DehnerExpressHerzig.jpg
+187,Balkonpflanzen,false,Enzianstrauch,14.99,https://assets.dehner.de/new_product_list_normal/enzianstrauch-busch/8596975_WE_FS_001_LycianthesRantonetiiBuschBlauOWT17DehnerExpressHerzig.jpg
