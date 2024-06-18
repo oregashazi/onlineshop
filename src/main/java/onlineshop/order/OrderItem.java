@@ -2,7 +2,9 @@ package onlineshop.order;
 
 import onlineshop.merchandise.CartItem;
 
-// TODO: add JavaDoc like in {@link PlantMee}
+/**
+ * Represents an item in an order.
+ */
 public class OrderItem extends CartItem {
     private double discount;
     private double taxAmount;
@@ -10,12 +12,22 @@ public class OrderItem extends CartItem {
     public OrderItem() { }
 
     public OrderItem(CartItem cartItem) {
-        // TODO: copy the fields
+        super(cartItem);
+        this.discount = 0;
+        this.taxAmount = 0;
     }
 
     public OrderItem(CartItem cartItem, double discountPercent, double taxPercent) {
         this(cartItem);
-        // TODO: calculate discount and taxAmount
+        this.discount = (cartItem.getPrice() * discountPercent) * cartItem.getQuantity();
+        this.taxAmount = (cartItem.getPrice() * taxPercent) * cartItem.getQuantity();
     }
-    // TODO: generate Getters
+
+    public double getDiscount() {
+        return discount;
+    }
+
+    public double getTaxAmount() {
+        return taxAmount;
+    }
 }

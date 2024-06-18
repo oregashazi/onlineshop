@@ -51,14 +51,14 @@ public class OrderItemTest extends TestBase {
      * Tests the getDiscount and getTaxAmount methods
      */
     private static void testDiscountAndTax() {
-/*
+
         cartItem.increaseQuantity();
         orderItem = new OrderItem(cartItem, discountPercent, taxPercent);
 
         assertEquals(0.1645, orderItem.getDiscount());
         assertEquals(0.6251, orderItem.getTaxAmount());
         System.out.println("[testDiscountAndTax] passed");
-*/
+
     }
 
     /**
@@ -82,7 +82,7 @@ public class OrderItemTest extends TestBase {
      * Tests the getDiscount and getTaxAmount methods
      */
     private static void testDiscountAndTax2() {
-/*
+
         cartItem.increaseQuantity();
         cartItem.increaseQuantity();
         cartItem.increaseQuantity();
@@ -91,7 +91,7 @@ public class OrderItemTest extends TestBase {
         assertEquals(2.2485, orderItem.getDiscount());
         assertEquals(8.5443, orderItem.getTaxAmount());
         System.out.println("[testDiscountAndTax2] passed");
-*/
+
     }
 
 

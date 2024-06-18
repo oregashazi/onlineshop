@@ -1,5 +1,6 @@
 package onlineshop.order;
 
+import onlineshop.PlantMee;
 import onlineshop.merchandise.CartItem;
 
 import java.time.DayOfWeek;
@@ -35,16 +36,35 @@ public class Order {
 
     public Order(Billing billing, List<CartItem> cartItems) {
         this();
-        // TODO: copy fields
-        // TODO: set order Date to 'now'
-        // TODO: add 3 working days to deliveryDate
-        // TODO: call 'placeOrder'
+        this.billing = billing;
+        this.orderDate = LocalDate.now();
+        this.deliveryDate = addWorkDays(this.orderDate, 3);
+        placeOrder(cartItems);
     }
 
     private void placeOrder(List<CartItem> cartItems) {
         // TODO: convert all cart items to order items
         // TODO: add all order items to order
         // TODO: add each orderItem's numbers to subTotal, discount, taxes and grandTotal
+        for (CartItem cartItem : cartItems) {
+            OrderItem orderItem = new OrderItem(cartItem);
+            items.add(orderItem);
+            subTotal += cartItem.getPrice() * cartItem.getQuantity();
+        }
+        discount = subTotal * DISCOUNT_PERCENTAGE;
+        discount = floorToTwoDecimalPlaces(discount);
+        taxes = subTotal * TAX_PERCENTAGE;
+        taxes = floorToTwoDecimalPlaces(taxes);
+        grandTotal = subTotal  + SHIPPING_COSTS; // + taxes - discount
+        grandTotal = floorToTwoDecimalPlaces(grandTotal);
+
+//        discount = Double.parseDouble(PlantMee.df.format(discount));
+//        taxes = Double.parseDouble(PlantMee.df.format(taxes));
+//        grandTotal = Double.parseDouble(PlantMee.df.format(grandTotal));
+    }
+
+    private double floorToTwoDecimalPlaces(double value) {
+        return Math.floor(value * 100) / 100.0;
     }
 
     /**
@@ -119,7 +139,7 @@ public class Order {
     }
 
     public double getSubTotal() {
-        return subTotal;
+        return Double.parseDouble(PlantMee.df.format(subTotal));
     }
 
     public void setSubTotal(double subTotal) {
@@ -127,7 +147,7 @@ public class Order {
     }
 
     public double getDiscount() {
-        return discount;
+        return Double.parseDouble(PlantMee.df.format(discount));
     }
 
     public void setDiscount(double discount) {
@@ -143,7 +163,7 @@ public class Order {
     }
 
     public double getGrandTotal() {
-        return grandTotal;
+        return Double.parseDouble(PlantMee.df.format(grandTotal));
     }
 
     public void setGrandTotal(double grandTotal) {

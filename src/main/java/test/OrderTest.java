@@ -55,7 +55,6 @@ public class OrderTest extends TestBase {
      * @param order the created order
      */
     private static void testOrderConstructor(Order order) {
-/*
         Billing billing = order.getBilling();
 
         assertEquals("Max", billing.getFirstName());
@@ -68,7 +67,6 @@ public class OrderTest extends TestBase {
         LocalDate deliveryDate = order.addWorkDays(orderDate, 3);
         assertEquals(true, deliveryDate.isEqual(order.getDeliveryDate()));
         System.out.println("[testOrderConstructor] passed");
-*/
     }
 
     /**
@@ -76,7 +74,6 @@ public class OrderTest extends TestBase {
      * @param order the created order
      */
     private static void testPlaceOrder(Order order) {
-/*
         List<OrderItem> items = order.getItems();
         assertEquals(10, items.size());
 
@@ -95,6 +92,5 @@ public class OrderTest extends TestBase {
         assertEquals(2.87, order.getTaxes());
         assertEquals(45.09, order.getGrandTotal());
         System.out.println("[testPlaceOrder] passed");
-*/
     }
 }

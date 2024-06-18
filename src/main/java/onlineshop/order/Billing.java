@@ -125,4 +125,22 @@ public class Billing {
     public void setPaymentMethod(PaymentMethod paymentMethod) {
         this.paymentMethod = paymentMethod;
     }
+
+    /**
+     * Returns the combined address as a single string.
+     *
+     * @return the combined address
+     */
+    public String getCombinedAddress() {
+        StringBuilder address = new StringBuilder();
+        if (company != null && !company.isEmpty()) {
+            address.append(company).append(", ");
+        }
+        address.append(street).append(", ");
+        if (state != null && !state.isEmpty()) {
+            address.append(state).append(", ");
+        }
+        address.append(city).append(", ").append(country).append(", ").append(zipCode);
+        return address.toString();
+    }
 }

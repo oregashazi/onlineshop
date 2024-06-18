@@ -18,6 +18,8 @@ public class CartItem extends Plant {
         this.image = plant.image;
     }
 
+
+
     public int getQuantity() {
         return quantity;
     }
