@@ -16,8 +16,8 @@ import java.util.Locale;
  * This class represents a plant shop. It reads its assortment from a CSV file, allows to sort it by various categories.
  * You may fill a shopping cart, check it out and place several orders.
  *
- * @author <Insert your name here>
- * @version <Insert your version number here>
+ * @author Daniil Mykhailovskyi
+ * @version 1.0
  */
 public class PlantMee {
     /** This allows to trim numbers to 2 decimal digits. */

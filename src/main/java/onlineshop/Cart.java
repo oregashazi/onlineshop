@@ -6,17 +6,24 @@ import onlineshop.merchandise.Plant;
 import java.util.ArrayList;
 import java.util.List;
 
-// TODO: add JavaDoc like in {@link PlantMee}
+/**
+ * Represents a shopping cart in an online shop.
+ * Allows adding, removing, and modifying quantities of items.
+ */
 public class Cart {
     final static int MAX_QUANTITY = 15;
     private List<CartItem> items = new ArrayList<>();
 
+    /**
+     * Retrieves the list of items in the cart.
+     * @return items {@link List} of {@link CartItem}
+     */
     public List<CartItem> getItems() {
         return items;
     }
 
     /**
-     * Counts cart items and their quantity
+     * Counts the total number of items in the cart.
      * @return numberOfItems {@link Integer}
      */
     public int getNumOfItems() {
@@ -28,8 +35,8 @@ public class Cart {
     }
 
     /**
-     * Sums all cart items, taking their quantity into account
-     * @return formattedNumber {@link String}
+     * Calculates the subtotal of all items in the cart.
+     * @return formattedSubtotal {@link String}
      */
     public String getSubtotal() {
         double total = 0;
@@ -40,8 +47,9 @@ public class Cart {
     }
 
     /**
-     * Adds an article/plant to the cart
-     * @param plant {@link Plant}
+     * Adds a plant to the cart with a default quantity of 1.
+     * If the plant already exists in the cart, increases its quantity (up to {@link Cart#MAX_QUANTITY}).
+     * @param plant {@link Plant} to add to the cart
      */
     public void addArticle(Plant plant) {
         CartItem item = findItem(plant.getArticleNo());
@@ -50,11 +58,16 @@ public class Cart {
             items.add(item);
         }
         // limit quantity
-        if (item.getQuantity() <= MAX_QUANTITY) {
+        if (item.getQuantity() < MAX_QUANTITY) {
             item.increaseQuantity();
         }
     }
 
+    /**
+     * Increases the quantity of a specific article in the cart.
+     * @param articleNo {@link Integer} article number to increase quantity
+     * @return true if quantity was increased successfully, false otherwise
+     */
     public boolean increaseQuantity(int articleNo) {
         CartItem existingItem = findItem(articleNo);
         if (existingItem != null) {
@@ -65,10 +78,10 @@ public class Cart {
     }
 
     /**
-     * Decreases the quantity of an existing article.
-     * If quantity sinks below 1, it removes the article and returns 'false'.
-     * @param articleNo {@link Integer}
-     * @return isArticleNotRemoved {@link Boolean}
+     * Decreases the quantity of a specific article in the cart.
+     * If quantity drops below 1, removes the article from the cart.
+     * @param articleNo {@link Integer} article number to decrease quantity
+     * @return true if article was successfully decreased in quantity (or removed), false otherwise
      */
     public boolean decreaseQuantity(int articleNo) {
         CartItem existingItem = findItem(articleNo);
@@ -84,9 +97,9 @@ public class Cart {
     }
 
     /**
-     * Removes an article from the cart
-     * @param articleNo {@link Integer}
-     * @return wasSuccesful {@link Boolean}
+     * Removes a specific article from the cart.
+     * @param articleNo {@link Integer} article number to remove
+     * @return true if article was successfully removed, false otherwise
      */
     public boolean removeArticle(int articleNo) {
         CartItem existingItem = findItem(articleNo);
@@ -98,9 +111,9 @@ public class Cart {
     }
 
     /**
-     * Finds an article by its article number
-     * @param articleNo {@link Integer}
-     * @return existingItem {@link CartItem}
+     * Finds a CartItem in the cart by its article number.
+     * @param articleNo {@link Integer} article number to search for
+     * @return {@link CartItem} if found, null otherwise
      */
     private CartItem findItem(int articleNo) {
         for (CartItem item : items) {
